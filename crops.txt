@@ -1,0 +1,5 @@
+1,Kött,5
+2,Löv,5
+3,Vindruvor,5
+4,Sallad,5
+5,Grönsaker,5

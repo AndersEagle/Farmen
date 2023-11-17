@@ -1,0 +1,5 @@
+1,Lejon
+2,Giraff
+3,Apa
+4,Kanin
+5,Marsvin
